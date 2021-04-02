@@ -12,4 +12,6 @@ RTOS
 AVR
 8051
 8085
+Gujarat
+India
 
