@@ -6,4 +6,7 @@ LINUX
 S32 microcontroller
 Also an embedded programmer
 AVR Microcontroller
+ARM processor
+Device driver
+RTOS
 
