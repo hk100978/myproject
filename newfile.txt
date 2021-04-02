@@ -4,3 +4,4 @@ Senior software engineer, picus tech
 Working on RTOS
 LINUX
 S32 microcontroller
+Also an embedded programmer
