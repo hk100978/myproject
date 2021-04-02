@@ -2,23 +2,4 @@ Hi Everyone
 Myself Dr. Harikrishna Parmar
 Senior software engineer, picus tech
 Working on RTOS
-<<<<<<< HEAD
-Also working on LINUX
-Embedded Environment
-Great going
-enjoy working
-=======
-LINUX
-S32 microcontroller
-Also an embedded programmer
-AVR Microcontroller
-ARM processor
-Device driver
-RTOS
-AVR
-8051
-8085
-microcontroller
-Process
-H C Parmar
-S H Parmar
+
