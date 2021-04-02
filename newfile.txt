@@ -9,4 +9,7 @@ AVR Microcontroller
 ARM processor
 Device driver
 RTOS
+AVR
+8051
+8085
 
