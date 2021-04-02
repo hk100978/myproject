@@ -5,3 +5,5 @@ Working on RTOS
 LINUX
 S32 microcontroller
 Also an embedded programmer
+AVR Microcontroller
+
