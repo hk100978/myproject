@@ -2,6 +2,7 @@ Hi Everyone
 Myself Dr. Harikrishna Parmar
 Senior software engineer, picus tech
 Working on RTOS
+<<<<<<< HEAD
 Hi
 Hello
 Microcontroller
@@ -10,3 +11,13 @@ PIC
 Bhatar road
 Surat
 
+=======
+LINUX
+S32 microcontroller
+Also an embedded programmer
+Hello Harikrishna 
+How R u?
+Near Saachi children Hospital
+BAPS swaminarayan Mandir
+Adajan
+>>>>>>> mybranch1
