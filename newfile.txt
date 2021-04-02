@@ -1,3 +1,6 @@
 Hi Everyone
 Myself Dr. Harikrishna Parmar
 Senior software engineer, picus tech
+Working on RTOS
+LINUX
+S32 microcontroller
