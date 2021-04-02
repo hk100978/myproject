@@ -1,12 +1,2 @@
-Hi Everyone
-Myself Dr. Harikrishna Parmar
-Senior software engineer, picus tech
-Working on RTOS
-Hi
-Hello
-Microcontroller
-Microprocessor
-PIC
-Bhatar road
-Surat
-
+Hello everyone
+How r u?
