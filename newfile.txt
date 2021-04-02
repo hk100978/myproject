@@ -30,5 +30,12 @@ Shastiji mharaj
 
 >>>>>>> mybranch4
 
+<<<<<<< HEAD
 Ascending
 Descending
+=======
+Engineering
+PG Diploma
+Mtech
+PHD
+>>>>>>> MyBranch 5 is created
