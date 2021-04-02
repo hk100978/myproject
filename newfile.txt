@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi Everyone
 Myself Dr. Harikrishna Parmar
 Senior software engineer, picus tech
@@ -21,3 +22,10 @@ Near Saachi children Hospital
 BAPS swaminarayan Mandir
 Adajan
 >>>>>>> mybranch1
+=======
+Bhagvan Swaminarayan
+Aksharbrahm Gunatitanand Swami
+Bhagataji Maharaj
+Shastiji mharaj
+
+>>>>>>> mybranch4
